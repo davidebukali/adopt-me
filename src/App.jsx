@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { React, useState } from "react";
 import AdoptedPetContext from "./AdoptedPetContext";
 import { createRoot } from "react-dom/client";
 import SearchParams from "./SearchParams";
